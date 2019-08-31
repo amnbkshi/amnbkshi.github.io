@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Kahaniyan
+title: Blogs
+active: blog
 ---
 
 <ul>
