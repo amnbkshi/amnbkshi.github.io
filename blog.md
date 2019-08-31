@@ -4,6 +4,8 @@ title: Blogs
 active: blog
 ---
 
+Blog page
+
 <ul>
   {% for post in site.posts %}
     <li>
